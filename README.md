@@ -2,7 +2,7 @@
 
 Welcome to my profile! 
 
-I'm a DevOps Engineer with experience in cloud solutions and infrastructure automation. I thrive on bringing reliability to cloud environments. 
+I'm a DevOps Engineer with experience in cloud migrations and infrastructure automation. 
 
 When my hands are not on the keyboard, I'm likely exploring new destinations or enjoying the great outdoors!
 
