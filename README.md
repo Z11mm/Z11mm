@@ -45,8 +45,8 @@ When my hands are not on the keyboard, I'm likely exploring new destinations or 
 ![]()
 ## Where to find me
 
-# [![Twitter Follow](https://img.shields.io/badge/X-000000?style=social&logo=x&logoColor=black&label=%40MasterZiii&link=https%3A%2F%2Fx.com%2FMasterZiii
-# )](https://x.com/MasterZiii)
+<!-- [![Twitter Follow](https://img.shields.io/badge/X-000000?style=social&logo=x&logoColor=black&label=%40MasterZiii&link=https%3A%2F%2Fx.com%2FMasterZiii
+)](https://x.com/MasterZiii) -->
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/zimuzo-obiechina/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white
